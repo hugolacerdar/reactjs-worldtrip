@@ -1,0 +1,90 @@
+{
+  "continents": [
+    {
+      "id": "asia",
+      "continent": "Asia",
+      "imageUrl": "continents/asia/singapore.jpeg",
+      "summary": "Rumo ao oriente.",
+      "extendedSummary": "Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta.",
+      "countriesNum": 48,
+      "languagesNum": 2300,
+      "cities100": [
+        {
+          "name": "Hong Kong",
+          "country": "China",
+          "imageUrl": "continents/asia/cities/hong_kong.jpg",
+          "flagUrl": "continents/asia/china_flag.jpeg"
+        },
+        {
+          "name": "Pattaya",
+          "country": "Tailândia",
+          "imageUrl": "continents/asia/cities/pattaya.jpeg",
+          "flagUrl": "continents/asia/thailand_flag.png"
+        }
+      ]
+    },
+    {
+      "id": "america-do-sul",
+      "continent": "América do Sul",
+      "imageUrl": "continents/south_america/lima.jpeg",
+      "summary": "Viagem aos trópicos",
+      "extendedSummary": "Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta.",
+      "countriesNum": 48,
+      "languagesNum": 448,
+      "cities100": [
+        {
+          "name": "Lima",
+          "country": "China",
+          "imageUrl": "continents/south_america/lima.jpeg",
+          "flagUrl": "continents/south_america/peru_flag.jpeg"
+        },
+        {
+          "name": "Buenos Aires",
+          "country": "Argentina",
+          "imageUrl": "continents/south_america/cities/buenos_aires.jpeg",
+          "flagUrl": "continents/south_america/argentina_flag.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "oceania",
+      "continent": "Oceania",
+      "imageUrl": "continents/oceania/auckland.jpeg",
+      "summary": "Aventura e diversidade.",
+      "extendedSummary": "Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta.",
+      "countriesNum": 48,
+      "languagesNum": 448,
+      "cities100": []
+    },
+    {
+      "id": "africa",
+      "continent": "Africa",
+      "imageUrl": "continents/africa/hurghada.jpeg",
+      "summary": "O continente mais antigo do mundo.",
+      "extendedSummary": "Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta.",
+      "countriesNum": 48,
+      "languagesNum": 448,
+      "cities100": []
+    },
+    {
+      "id": "america-do-norte",
+      "continent": "América do Norte",
+      "imageUrl": "continents/north_america/vancouver.jpeg",
+      "summary": "Um continente.",
+      "extendedSummary": "Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta.",
+      "countriesNum": 48,
+      "languagesNum": 448,
+      "cities100": []
+    },
+    {
+      "id": "europa",
+      "continent": "Europa",
+      "imageUrl": "continents/europe/berlin.jpeg",
+      "summary": "Outro continente.",
+      "extendedSummary": "Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta.",
+      "countriesNum": 48,
+      "languagesNum": 448,
+      "cities100": []
+    }
+  ]
+}
